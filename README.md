@@ -1,9 +1,8 @@
-# plt4115
-
 # TiMRS
 
 ## Timers, Made Readable and Simple</h2>
 
+Authors:
 Jeff Kline  
 Daniel Rindone  
 Eric Webb  
