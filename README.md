@@ -4,10 +4,10 @@
 
 ## Timers, Made Readable and Simple</h2>
 
-Jeff Kline jk4209  
-Daniel Rindone 	(uni)  
-Eric Webb 	 (uni)  
-Faisal Rahman 	(uni)  
+Jeff Kline  
+Daniel Rindone  
+Eric Webb  
+Faisal Rahman
 
 ### Introduction
 
